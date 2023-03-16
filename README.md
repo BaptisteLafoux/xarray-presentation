@@ -19,4 +19,4 @@ pip install requirements.txt
 
 ## Data 
 
-The data is not included in the repository. You send me an email if you want it (3.2Go) 
+The data is not included in the repository. You can send me an email if you want it (3.2Go) 
