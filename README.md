@@ -3,7 +3,7 @@ A presentation given at PMMH lab in march 2023, as an introduction to netCDF fil
 
 ## Content 
 
-- The [```https://github.com/BaptisteLafoux/xarray-presentation/blob/main/geophys_pmmh_16mar23.pdf```](https://github.com/BaptisteLafoux/xarray-presentation/blob/main/geophys_pmmh_16mar23.pdf) is a short introduction to netCDF and Xarray
+- The [```geophys_pmmh_16mar23.pdf```](https://github.com/BaptisteLafoux/xarray-presentation/blob/main/geophys_pmmh_16mar23.pdf) is a short introduction to netCDF and Xarray
 - The ```presentation.ipynb``` file is my live code presentation as a notebook
 - The ```xarray-example.py``` file is basically the same but in a python file
 
